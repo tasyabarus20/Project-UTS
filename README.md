@@ -1,2 +1,2 @@
 # Project-UTS
-Perbandingan Performa Apache Impala dengan Apache Spark dalam Mengeksekusi Query
+Performance Comparison of Apache Impala with Apache Spark in Executing Queries
